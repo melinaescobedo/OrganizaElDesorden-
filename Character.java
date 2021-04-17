@@ -1,3 +1,11 @@
+/*
+@Authors:
+    Melina Escobedo 		    164094
+    Victor A. Canales 		    162329
+    David F. Rosas 		    163031
+    Rodrigo Campos 		    163962
+*/
+
 public abstract class Character {
     WeaponBehavior weapon;
     MovementBehavior movement;
